@@ -1,0 +1,6 @@
+C:\Users\wew_000\Documents\GitHub\ProjectEuler\1Multiples\1Multiples\bin\Debug\1Multiples.exe.config
+C:\Users\wew_000\Documents\GitHub\ProjectEuler\1Multiples\1Multiples\bin\Debug\1Multiples.exe
+C:\Users\wew_000\Documents\GitHub\ProjectEuler\1Multiples\1Multiples\bin\Debug\1Multiples.pdb
+C:\Users\wew_000\Documents\GitHub\ProjectEuler\1Multiples\1Multiples\obj\Debug\1Multiples.csprojResolveAssemblyReference.cache
+C:\Users\wew_000\Documents\GitHub\ProjectEuler\1Multiples\1Multiples\obj\Debug\1Multiples.exe
+C:\Users\wew_000\Documents\GitHub\ProjectEuler\1Multiples\1Multiples\obj\Debug\1Multiples.pdb
